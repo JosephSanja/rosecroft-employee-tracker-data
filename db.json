@@ -1,14 +1,14 @@
 {
     "user":[
         {
-            "id":"admin",
+            "id":"joseph",
             "name":"joseph",
             "password":"admin"
         },
         {
             
-            "id":"admin",
-            "name":"dia",
+            "id":"dia",
+            "name":"diana",
             "password":"dia1"
         }
     ]

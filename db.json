@@ -1,12 +1,12 @@
 {
     "user":[
         {
-            "username":"joseph",
+            "id":"joseph",
             "password":"admin"
         },
         {
             
-            "username":"dia",
+            "id":"dia",
             "password":"dia1"
         }
     ]

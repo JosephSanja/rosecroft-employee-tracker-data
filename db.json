@@ -1,15 +1,5 @@
 {
     "user":[
-        {
-            "id":"joseph",
-            "name":"joseph",
-            "password":"admin"
-        },
-        {
-            
-            "id":"dia",
-            "name":"diana",
-            "password":"dia1"
-        }
+        
     ]
 }

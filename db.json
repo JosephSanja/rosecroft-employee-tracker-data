@@ -3,6 +3,9 @@
         
     ],
     "shift":[
-
+         {"id":"1","name":"Day Shift"},
+        {"id":"2","name":"Night Shift"}
     ]
+
+    
 }
